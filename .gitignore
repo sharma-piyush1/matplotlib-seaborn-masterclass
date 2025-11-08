@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.jupenv/
+.jupyter/
+.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Data cache / temp files
+*.csv.zip
+*.tar.gz
+*.pickle
+*.pkl
+
+# macOS garbage
+.DS_Store
+
+# Windows garbage
+Thumbs.db
+desktop.ini
+
+# Python packaging/dist
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Images output or temporary renders
+*.png
+*.jpg
+*.svg
+*.pdf
